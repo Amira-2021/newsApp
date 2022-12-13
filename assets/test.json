@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 33,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Samantha Subin, Alex Harring",
+      "title": "Stocks finish lower as Wall Street braces for key Fed decision - CNBC",
+      "description": "Investors are looking to the Fed meeting this week for a key decision on rates.",
+      "url": "https://www.cnbc.com/2022/10/31/stock-futures-flat-as-indexes-exit-winning-month-and-investors-look-to-fed-meeting.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107144325-1667333213226-a9_img_100_99_112_1917655_1000-1667333128883.jpg?v=1667333380&w=1920&h=1080",
+      "publishedAt": "2022-11-01T20:40:00Z",
+      "content": "Stocks dipped on Tuesday as traders assessed better-than-expected economic data and prepared for another likely rate hike from the Federal Reserve.\r\nThe Dow Jones Industrial Average fell 79.75 points… [+1501 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ariane de Vogue, Sara Murray, Tierney Sneed",
+      "title": "Supreme Court rejects Lindsey Graham's request to block Georgia grand jury subpoena - CNN",
+      "description": "The Supreme Court declined on Tuesday to block a subpoena for Republican Sen. Lindsey Graham to testify in front of an Atlanta special grand jury investigating efforts to overturn the 2020 presidential election in Georgia.",
+      "url": "https://www.cnn.com/2022/11/01/politics/lindsey-graham-supreme-court/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221027183319-lindsey-graham-file-031622.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-11-01T20:26:00Z",
+      "content": "The Supreme Court declined on Tuesday to block a subpoena for Republican Sen. Lindsey Graham to testify in front of an Atlanta special grand jury investigating efforts to overturn the 2020 presidenti… [+4139 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Harrison Smith, Emily Langer",
+      "title": "Julie Powell, food writer behind 'Julie & Julia,' dies at 49 - The Washington Post",
+      "description": "At 29, she started a blog about her attempt to make every recipe in Julia Child’s “Mastering the Art of French Cooking.” The project led to a book and movie.",
+      "url": "https://www.washingtonpost.com/obituaries/2022/11/01/food-writer-julie-powell-dead/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GDTDEIRPKYM7JEBKRZWJGN4PTM.jpg&w=1440",
+      "publishedAt": "2022-11-01T20:23:17Z",
+      "content": "Julie Powell, a writer and home cook who became a culinary phenomenon while trying to make every recipe in Julia Childs Mastering the Art of French Cooking, a year-long project that she chronicled in… [+1286 chars]"
+    }
+  ]
+}
